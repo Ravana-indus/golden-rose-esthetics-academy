@@ -18,14 +18,14 @@ const Button = ({
   isLoading = false,
   ...props
 }: ButtonProps) => {
-  const baseStyles = "relative inline-flex items-center justify-center rounded-md font-medium transition-all focus:outline-none focus:ring-2 focus:ring-gold/50 disabled:opacity-70 disabled:cursor-not-allowed overflow-hidden group";
+  const baseStyles = "relative inline-flex items-center justify-center rounded-md font-medium transition-all focus:outline-none focus:ring-2 focus:ring-rosegold/50 disabled:opacity-70 disabled:cursor-not-allowed overflow-hidden group";
   
   const variants = {
-    primary: "bg-gold hover:bg-gold-dark text-white shadow-soft",
-    secondary: "bg-rosegold hover:bg-rosegold-dark text-black shadow-soft",
-    outline: "border border-gold/80 text-gold-dark hover:bg-gold/10",
-    ghost: "bg-transparent hover:bg-muted text-gold-dark",
-    link: "bg-transparent underline-offset-4 hover:underline text-gold-dark p-0 font-normal",
+    primary: "bg-rosegold hover:bg-rosegold-dark text-black shadow-soft",
+    secondary: "bg-gold hover:bg-gold-dark text-white shadow-soft",
+    outline: "border border-rosegold/80 text-rosegold-dark hover:bg-rosegold/10",
+    ghost: "bg-transparent hover:bg-muted text-rosegold-dark",
+    link: "bg-transparent underline-offset-4 hover:underline text-rosegold-dark p-0 font-normal",
   };
   
   const sizes = {

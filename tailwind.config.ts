@@ -63,16 +63,16 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				// Custom color scheme
-				gold: {
-					light: '#f5e7c1',
-					DEFAULT: '#d4af37',
-					dark: '#aa8c2c'
-				},
+				// Custom color scheme - switched primary to rosegold
 				rosegold: {
 					light: '#f9d6d2',
 					DEFAULT: '#e0bfb8',
 					dark: '#c08e85'
+				},
+				gold: {
+					light: '#f5e7c1',
+					DEFAULT: '#d4af37',
+					dark: '#aa8c2c'
 				},
 				royal: {
 					light: '#f0f0f0',
@@ -144,7 +144,7 @@ export default {
 			},
 			boxShadow: {
 				'soft': '0 4px 20px rgba(0, 0, 0, 0.05)',
-				'elegant': '0 4px 30px rgba(212, 175, 55, 0.1)',
+				'elegant': '0 4px 30px rgba(224, 191, 184, 0.15)',
 				'card': '0 10px 30px rgba(0, 0, 0, 0.05)'
 			},
 			fontFamily: {
