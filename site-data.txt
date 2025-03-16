@@ -1,0 +1,124 @@
+# Esthetics Academy Website Structure
+
+Canadian Masters Academy of Esthetics Beauty
+
+## 1. Home Page
+- Hero section with captivating imagery and tagline
+- Brief overview of the academy
+- Featured programs with visual callouts
+- Student success stories/testimonials
+- Upcoming course start dates
+- Call-to-action buttons (Apply Now, Request Information)
+- News and announcements section
+
+## 2. About Us
+- Academy history and mission
+- Accreditations and partnerships
+- Faculty profiles and credentials
+- Facility tour (virtual or photo gallery)
+- Industry connections and affiliations
+- Values and teaching philosophy
+
+## 3. Programs
+### 3.1 Program Overview
+- Complete diploma program description
+- Career opportunities after graduation
+- Tuition and financial information
+- Program duration and schedule options
+
+### 3.2 Individual Certificate Courses
+- Dedicated pages for each certificate course:
+  - Skin Care Basics
+  - Advanced Skin Treatments
+  - Hair Removal (Waxing, Threading)
+  - Makeup Artistry
+  - Nail Care & Art
+  - Massage Techniques
+  - Esthetics Business Management
+  - Client Care & Consultation
+  - Health & Safety Standards
+  - Practical Experience/Internship
+- Each page includes:
+  - Course description
+  - Learning outcomes
+  - Duration and schedule
+  - Prerequisites (if any)
+  - Certification details
+  - Course fee
+
+### 3.3 Advanced Esthetics Program
+- Comprehensive overview
+- Modules and specializations
+- Advanced techniques covered
+- Industry relevance
+- Prerequisites
+
+## 4. Admissions
+- Application process
+- Admission requirements
+- Important dates and deadlines
+- Tuition and fees
+- Payment plans
+- Financial aid information
+- Application form
+- FAQ for prospective students
+
+## 5. Student Resources
+- Current student portal login
+- Course materials
+- Academic calendar
+- Student handbook
+- Equipment and supplies list
+- Industry resources and links
+- Career services
+
+## 6. Student Experience
+- Student testimonials and success stories
+- Student work showcase
+- Graduate spotlights
+- Campus life and events
+- Student support services
+
+## 7. Career Services
+- Job placement assistance
+- Industry partnerships
+- Career development workshops
+- Resume and portfolio building
+- Interview preparation
+- Alumni network
+
+## 8. Student Clinic
+- Services offered by students
+- Pricing
+- Booking system
+- Location and hours
+- Client testimonials
+- FAQs for clients
+
+## 9. News & Events
+- Industry news
+- Academy updates
+- Upcoming workshops and events
+- Blog posts on industry trends
+- Guest speakers and special classes
+- Photo gallery of past events
+
+## 10. Contact Us
+- Contact form
+- Phone numbers and email addresses
+- Location with map
+- Hours of operation
+- Social media links
+- Request information form
+- Campus tour scheduling
+
+## 11. Footer (All Pages)
+- Quick links to popular pages
+- Social media icons
+- Contact information
+- Newsletter signup
+- Privacy policy and terms of service
+- Accreditation logos
+
+
+
