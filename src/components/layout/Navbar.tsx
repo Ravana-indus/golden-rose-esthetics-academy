@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Menu, X, ChevronDown, Phone, Mail } from 'lucide-react';
@@ -78,17 +77,14 @@ const Navbar = () => {
       {/* Main Navigation */}
       <header 
         className={`sticky top-0 left-0 right-0 z-50 transition-all duration-300 ${
-          scrolled ? 'glass shadow-elegant py-3' : 'bg-white py-5'
+          scrolled ? 'glass shadow-elegant py-3 bg-[#bb88ab]' : 'bg-[#bb88ab] py-5'
         }`}
       >
         <div className="container mx-auto px-4 md:px-6">
           <div className="flex items-center justify-between">
             {/* Logo */}
             <Link to="/" className="relative z-50">
-              <h1 className="text-2xl md:text-3xl font-playfair font-bold tracking-tight">
-                <span className="bg-clip-text text-transparent bg-gold-gradient">Canadian</span>
-                <span className="text-black"> Masters</span>
-              </h1>
+              <img src="/src/img/CMA_LOGO11_Low.png" alt="Canadian Masters Logo" className="h-12 md:h-16" />
             </Link>
 
             {/* Desktop Navigation with shadcn UI NavigationMenu */}
@@ -103,7 +99,7 @@ const Navbar = () => {
                           className={cn(
                             "text-sm font-medium transition-colors hover:text-gold relative px-4 py-2 rounded-md inline-flex",
                             "after:absolute after:bottom-0 after:left-2 after:right-2 after:h-0.5 after:w-0 hover:after:w-[calc(100%-16px)] after:bg-gold after:transition-all",
-                            location.pathname === link.path ? "text-gold after:w-[calc(100%-16px)]" : "text-black"
+                            location.pathname === link.path ? "text-gold after:w-[calc(100%-16px)]" : "text-white"
                           )}
                         >
                           {link.name}
@@ -114,7 +110,7 @@ const Navbar = () => {
                         <NavigationMenuTrigger 
                           className={cn(
                             "text-sm font-medium bg-transparent hover:bg-transparent hover:text-gold",
-                            location.pathname.includes(link.path) ? "text-gold" : "text-black"
+                            location.pathname.includes(link.path) ? "text-gold" : "text-white"
                           )}
                         >
                           {link.name}
