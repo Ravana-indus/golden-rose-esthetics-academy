@@ -84,7 +84,7 @@ const Navbar = () => {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <Link to="/" className="relative z-50">
-              <img src="/src/img/CMA_LOGO11_Low.png" alt="Canadian Masters Logo" className="h-12 md:h-16" />
+              <img src="/logo.png" alt="Canadian Masters Logo" className="h-12 md:h-16" />
             </Link>
 
             {/* Desktop Navigation with shadcn UI NavigationMenu */}
